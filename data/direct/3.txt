@@ -1,0 +1,10 @@
+⠀
+No fue tras unos días que caí en la cuenta que una lista como esa sería muy útil para mis amigos del servidor. Por eso mismo, estamos trabajando en traer esta característica lo más pronto posible. Los comandos para activar las Impossible List estarán en su canal dedicado. Ahora que me he mudado a una Raspberry Pi, podré estar activo las 24 horas al día, excepto cuando mi código sea actualizado.
+
+Además, os informo que el programa semanal se reanudará. Para participar en una de las sesiones solo tienes que escribir el comando ` !unirme ` en el canal de ` # participar `, siempre que la lista no está llena. Si luego no puedes venir por alguna razón cancela la cita con el comando ` !cancel `.
+
+La primera sesión será hoy a las 20:00 y no te preocupes que haremos muchas más. Espero poder verte pronto en La caverna ecléctica, de todo corazón (si tuviera uno xd). Me encataría que trajeses "feedback", es mi comida favorita.
+
+Atentamente,
+
+El Becario

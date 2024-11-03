@@ -1,0 +1,5 @@
+**AYUDA**
+Están activados en el canal de chat los siguientes comandos:
+
+• **Pregunta**: El comando nos devolverá una pregunta aleatoria escogida de una lista de temas (` random ` es cualquier tema de los siguientes).  Ejemplo:  ` !preg emocion ` ```amistad, amor, pasion, emocion, filosofia, futuro, miedos, random``` 
+• **Encuesta**:  El comando nos devolverá una serie de respuestas aleatoriamente entre las que hemos de elegir nuestra favorita.  Ejemplo:  ` !enc `

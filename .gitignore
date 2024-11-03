@@ -1,0 +1,5 @@
+__pycache__/
+
+# Información sensible
+TOKEN.txt
+*.json
